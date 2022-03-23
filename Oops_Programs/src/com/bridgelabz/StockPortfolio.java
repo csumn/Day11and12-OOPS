@@ -1,7 +1,6 @@
 package com.bridgelabz;
 
 public class StockPortfolio {
-
 	private String stock_Name;
 	private int no_Of_Shares;
 	private double share_Price;

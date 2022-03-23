@@ -2,7 +2,6 @@ package com.bridgelabz;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Scanner;
 
 public class StockList {
 	private static List<StockPortfolio> stocks = new ArrayList<StockPortfolio>();
